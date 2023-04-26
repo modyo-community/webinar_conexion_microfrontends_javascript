@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+body {
+  background-color: #FBFAFF;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.image {
+  max-width: 50%;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.add-cart {
+  gap: 8px;
+}
